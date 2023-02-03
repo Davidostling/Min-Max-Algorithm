@@ -3,7 +3,7 @@ A1 - Minimax
 
 # Repository Information
 
-This repository contains code for a Min-Max algorithm which is a game theory and AI decision-making technique that evaluates all possible moves in a two-player game and returns the best move by assuming both players play optimally. Alpha-Beta pruning is a technique used to reduce the number of nodes evaluated in the Min-Max tree by keeping track of two values, alpha and beta, to cut off branches that can't affect the final outcome. The combination of Min-Max and Alpha-Beta pruning results in an efficient way to find the optimal solution in two-player games.
+This repository contains code for a Min-Max algorithm; a game theory and AI decision-making technique. It functions by evaluating all possible moves in a two-player game and returns the best one by assuming both players play optimally. Furthermore, Alpha-Beta pruning is a technique used to reduce the number of nodes evaluated in the Min-Max tree by keeping track of two values, alpha and beta, to cut off branches that can't affect the final outcome. The combination of Min-Max and Alpha-Beta pruning results in an efficient way to find the optimal solution in two-player games.
 
 # Objective
 The objective of this assignment is to implement the Minimax search algorithm for the best next
